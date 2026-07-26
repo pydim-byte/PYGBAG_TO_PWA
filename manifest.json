@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "/PYGBAG_TO_PWA/favicon.png",
-      "sizes": "800x600",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
