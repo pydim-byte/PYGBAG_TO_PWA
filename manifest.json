@@ -1,0 +1,16 @@
+{
+  "name": "PWA test",
+  "short_name": "PWA test",
+  "start_url": "/test_pwa/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "orientation": "landscape-primary",
+  "icons": [
+    {
+      "src": "/test_pwa/favicon.png",
+      "sizes": "800x600",
+      "type": "image/png"
+    }
+  ]
+}
